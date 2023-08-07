@@ -1,0 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body{
+    box-shadow: inset 5px 5px 100px #000000 ;
+}
